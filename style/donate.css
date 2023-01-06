@@ -1,0 +1,156 @@
+* {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.btn-primary {
+    color: #FFFFFF;
+    font-weight: 100;
+    font-size: 20px;
+    border: 0;
+    padding: 12px 16px;
+    height: 56px;
+    border-radius: 5px;
+    background-color: #FF5959;
+    margin-top: 30px;
+    margin-bottom: 130px;
+
+}
+
+.header {
+    background: linear-gradient(360deg, #121212 0%, rgba(18, 18, 18, 0) 100%), url('../images/donation0.jpg');
+    color: #FFFFFF;
+    /* width: 1450px; */
+    width: 100%;
+    height: 670px;
+    margin: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+nav {
+    text-align: center;
+    padding: 174px 307px;
+}
+
+.nav-title {
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 65px;
+    padding-bottom: 15px;
+}
+
+.nav-sub-title {
+    font-weight: 400;
+    font-size: 18px;
+    color: #FFFFFF;
+    justify-items: center;
+    padding: 0px 110px;
+}
+
+.donate-taka {
+    display: flex;
+    justify-content: center;
+    gap: 22px;
+    border-radius: 5px;
+
+}
+
+.btn-pr {
+    color: #707070;
+    font-weight: 700;
+    font-size: 30px;
+    border: 0;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #FAFAFA;
+    margin-right: 19px;
+    text-align: center;
+    box-sizing: border-box;
+    width: 136px;
+    height: 123px;
+}
+
+.btn {
+    color: #FF5959;
+    font-weight: 700;
+    font-size: 30px;
+    border: 2px solid #FF5959;
+    padding: 5px;
+    border-radius: 2px;
+    background-color: #FAFAFA;
+    margin-right: 19px;
+    text-align: center;
+    box-sizing: border-box;
+    width: 136px;
+    height: 123px;
+}
+
+.donate-taka li {
+    list-style: none;
+}
+
+.donate {
+    /* background: #FFF8F3; */
+    border-radius: 10px;
+    padding: 100px 500px;
+    text-align: center;
+}
+
+.section-title {
+    color: #121212;
+    font-weight: 700;
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+
+.section-description {
+    font-weight: 400;
+    font-size: 18px;
+    color: #707070;
+    padding-bottom: 50px;
+}
+
+.ot-amount {
+    padding-top: 50px;
+    color: #B3B3B3;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+hr {
+    border: 1px solid #DADADA;
+}
+
+.facility-container {
+    display: flex;
+    gap: 24px;
+}
+
+.facility1 {
+    color: #707070;
+    border-radius: 5px;
+    background: rgba(79, 157, 166, 0.1);
+    font-weight: 400;
+    font-size: 16px;
+    text-align: justify;
+   width: 1000px;
+   height: 250px;
+}
+
+
+.skill-title {
+    font-weight: 700;
+    font-size: 20px;
+    color: #181818;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.skill-description {
+    font-weight: 400;
+    font-size: 16px;
+    color: #757575;
+}
