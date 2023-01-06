@@ -189,52 +189,100 @@ hr {
     color: #757575;
 }
 .work{
-    margin-top: 75px;
     display: flex;
     align-items: center;
+    margin: 75px 200px;
     
 }
-.text{
-    width: 45%;
-    float: left;
+.b{
+    margin-left: 104px; 
+    color: #FFFFFF;
+    font-weight: 100;
+    font-size: 20px;
+    border: 0;
+    padding: 12px 16px;
+    height: 56px;
+    border-radius: 5px;
+    background-color: #FF5959;
+    margin-top: 30px;
+    
 }
 .text-title{
     margin-left: 100px;
     font-size: 35px;
     font-weight: 900;
     color: black;
-    margin-top: 100px;
+    margin-top: 70px;
 }
 .title1{
     margin-left: 100px;
     font-size: 20px;
     color: rgb(163, 180, 195);
     text-align:left;
-    margin-top: 30px;
+    margin-top: 10px;
+    
 }
 
-.full-kaj{
-    margin-top: 75px;
+.right{
+   
+    width: 450px;
+    height: 450px;
+    margin-left: 12px;
+    border-radius: 5px;
 }
-.half-width-left{
-    width: 45%;
-    float: left;
+.work2{
+    display: flex;
+    align-items: center;
+    margin: 75px 200px;
+    
 }
-.half-width-right{
-    width: 45%;
-    float: left;
+.b{
+    margin-left: 104px; 
+    color: #FFFFFF;
+    font-weight: 100;
+    font-size: 20px;
+    border: 0;
+    padding: 12px 16px;
+    height: 56px;
+    border-radius: 5px;
+    background-color: #FF5959;
+    margin-top: 30px;
+    
 }
-.full-title{
+.text-title2{
     margin-left: 100px;
     font-size: 35px;
     font-weight: 900;
     color: black;
-    margin-top: 100px;
+    margin-top: 70px;
 }
-.full-data{
+.title2{
     margin-left: 100px;
     font-size: 20px;
     color: rgb(163, 180, 195);
     text-align:left;
-    margin-top: 30px;
+    margin-top: 10px;
+    
+}
+
+.left{
+   
+    width: 450px;
+    height: 450px;
+    margin-left: 12px;
+    border-radius: 5px;
+}
+.update{
+    text-align: center;
+    margin-top: 130px;
+    font-weight: 700;
+font-size: 45px;
+}
+.update-sub-title{
+    font-weight: 400;
+font-size: 18px;
+margin-top: 20px;
+text-align: center;
+
+color: #707070;
 }
